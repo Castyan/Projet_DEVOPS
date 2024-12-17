@@ -2,3 +2,6 @@
 mkdir devops
 cd devops
 git init
+### 2. Créer 2 branches master et develop
+git branch master
+git checkout -b develop
