@@ -11,3 +11,5 @@ git checkout master
 git merge develop
 ### 6. Renommer file1 en file1.txt
 git mv file1 file1.txt
+### 7. Supprimer file3
+git rm file3
