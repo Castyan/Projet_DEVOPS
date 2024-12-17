@@ -1,7 +1,8 @@
-### 1. Créer un dossier devops et en faire un repository GIT
-mkdir devops
-cd devops
-git init
-### 2. Créer 2 branches master et develop
-git branch master
-git checkout -b develop
+echo "Contenu de file1" > file1
+echo "Contenu de file2" > file2
+echo "Contenu de file3" > file3
+### 4. Créer des fichiers file1, file2 et file3 sur develop
+touch file1 file2 file3
+echo "Contenu de file1" > file1
+echo "Contenu de file2" > file2
+echo "Contenu de file3" > file3
