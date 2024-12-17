@@ -9,3 +9,5 @@ echo "Contenu de file3" > file3
 ### 5. Fusionner le contenu de develop dans master
 git checkout master
 git merge develop
+### 6. Renommer file1 en file1.txt
+git mv file1 file1.txt
