@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 echo "Contenu de file1" > file1
 echo "Contenu de file2" > file2
 echo "Contenu de file3" > file3
@@ -13,3 +14,7 @@ git merge develop
 git mv file1 file1.txt
 ### 7. Supprimer file3
 git rm file3
+=======
+# Projet_DEVOPS
+Devops CESI
+>>>>>>> a8d1ebae109d07aeca1f5545b2c22660f1bb4265
