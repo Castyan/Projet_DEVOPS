@@ -6,3 +6,6 @@ touch file1 file2 file3
 echo "Contenu de file1" > file1
 echo "Contenu de file2" > file2
 echo "Contenu de file3" > file3
+### 5. Fusionner le contenu de develop dans master
+git checkout master
+git merge develop
